@@ -1,7 +1,7 @@
 # Machine-Learning-Projects-Google-Colab
 
 This repository hosts a collection of machine learning projects developed using Google Colab. It serves as a centralized platform to share, document, and showcase diverse ML models and experiments, leveraging Colab's powerful computing environment and collaborative features.
----
+
 # Customer Segmentation Analysis for Enhanced Targeting
 
 ## Project Synopsis
